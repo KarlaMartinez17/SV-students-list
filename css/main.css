@@ -1,0 +1,19 @@
+section#students > div.container {
+    margin: 1em auto;
+    box-sizing: border-box;
+}
+
+section#students > div.container img{
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    margin: 10px;
+  
+}
+
+section#students > div.container span{
+ font-size: 18px;
+ font-weight: bolder;
+ position: relative;
+ top: 1em;
+}
